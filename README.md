@@ -1,5 +1,5 @@
-# AMIA 2025 Annual Symposium SFT and RL Tutorial
-Codebase for "A Hands-on Tutorial on Supervised Fine-Tuning and Reinforcement Learning of Large Language Models for Clinical Applications" at the AMIA 2025 Annual Symposium.
+# AMIA 2025 Annual Symposium W13 SFT and RL Tutorial
+Codebase for "W13: A Hands-on Tutorial on Supervised Fine-Tuning and Reinforcement Learning of Large Language Models for Clinical Applications" at the AMIA 2025 Annual Symposium.
 
 ## Supervised Fine-Tuning
 TBD
